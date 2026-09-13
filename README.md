@@ -1,4 +1,5 @@
-## Hi there 👋
+## Jimmy Brown
+I am a second-year undergrad at UVA studying Data Science and Economics.
 
 <!--
 **jimmyb25/jimmyb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
